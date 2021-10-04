@@ -1,2 +1,2 @@
 # Messaging_App
-Messaging app using firebase as the database
+Android Messaging app using firebase as the database
